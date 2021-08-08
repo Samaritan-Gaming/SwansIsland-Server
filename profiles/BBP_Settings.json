@@ -1,0 +1,33 @@
+{
+    "g_BBPDisableCraftVanillaFence": 1,
+    "g_BBPDisableCraftVanillaWatchtower": 1,
+    "g_BBPRequireLandClaim": 1,
+    "g_BBPLandClaimBlockDismantle": 1,
+    "g_BBPLandClaimRadius": 30,
+    "g_BBPAdminLandClaimRadius": 100,
+    "g_BBPFloatingPlacement": 0,
+    "g_BBPAdvanceRotation": 1,
+    "g_BBPInventoryToggle": 1,
+    "g_BBPBarbedWireRemoveOutside": 0,
+    "g_BBPSetInfiniteLifetime": 1,
+    "g_BBPEnableTimeDestructionMod": 0,
+    "g_BBPRaidOnlyDoors": 1,
+    "g_BBPTier1RaidTime": 300,
+    "g_BBPTier2RaidTime": 600,
+    "g_BBPTier3RaidTime": 900,
+    "g_BBPTier1RaidToolDamage": 1000,
+    "g_BBPTier2RaidToolDamage": 1000,
+    "g_BBPTier3RaidToolDamage": 1000,
+    "g_BBPTier1RaidTools": [
+		"SG_RaidAxe",
+		"SG_RaidSaw",
+		"SG_RaidHammer"
+	],
+    "g_BBPTier2RaidTools": [
+		"SG_RaidSaw",
+		"SG_RaidHammer"
+    ],
+    "g_BBPTier3RaidTools": [
+		"SG_RaidHammer"
+    ],
+}

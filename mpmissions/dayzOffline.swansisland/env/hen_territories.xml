@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
+    <territory color="2147461887">
+        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="1380.537109" z="1391.320801" r="50"/>
+        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="1233.400757" z="1353.322754" r="50"/>
+        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="902.326111" z="873.553894" r="50"/>
+    </territory>
+</territory-type>
